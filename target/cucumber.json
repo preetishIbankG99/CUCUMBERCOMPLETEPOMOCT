@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Test Login with valid credentials",
+        "description": "",
+        "id": "checking-hrm-login-feature;test-login-with-valid-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18914171432,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open chromebrowser and launch application",
+            "match": {
+              "location": "PageObjectStepDef.open_chromebrowser_and_launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 308665553,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I enter correct \"username\" and correct \"password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "username",
+                  "offset": 17
+                },
+                {
+                  "val": "password",
+                  "offset": 40
+                }
+              ],
+              "location": "PageObjectStepDef.i_enter_correct_and_correct(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9276037601,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on login button",
+            "match": {
+              "location": "PageObjectStepDef.user_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9683996,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Desired Page title OrangeHRM",
+            "match": {
+              "location": "PageObjectStepDef.Desired_page_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2112454462,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Browser tear down",
+            "match": {
+              "location": "PageObjectStepDef.Browser_tear_down()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Checking HRM login feature",
+    "description": "",
+    "id": "checking-hrm-login-feature",
+    "keyword": "Feature",
+    "uri": "Features/Pageobject.feature"
+  }
+]

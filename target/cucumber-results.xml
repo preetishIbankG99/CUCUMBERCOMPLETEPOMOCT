@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="30.621013">
+<testcase classname="Checking HRM login feature" name="Test Login with valid credentials" time="30.621013">
+<system-out><![CDATA[Given Open chromebrowser and launch application.............................passed
+When I enter correct "username" and correct "password"......................passed
+When User click on login button.............................................passed
+Then Desired Page title OrangeHRM...........................................passed
+Then Browser tear down......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

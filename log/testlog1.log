@@ -1,0 +1,42 @@
+2021-10-06 22:24:41,315 [main] INFO OrangeHRM - Chrome::Browser::Opened
+2021-10-06 22:24:42,497 [main] INFO OrangeHRM - Browser::Maximized
+2021-10-06 22:24:51,001 [main] INFO OrangeHRM - url entered
+2021-10-06 22:27:49,346 [main] INFO OrangeHRM - Chrome::Browser::Opened
+2021-10-06 22:27:50,557 [main] INFO OrangeHRM - Browser::Maximized
+2021-10-06 22:28:00,513 [main] INFO OrangeHRM - url entered
+2021-10-06 22:29:28,466 [main] INFO OrangeHRM - Chrome::Browser::Opened
+2021-10-06 22:29:29,679 [main] INFO OrangeHRM - Browser::Maximized
+2021-10-06 22:29:39,223 [main] INFO OrangeHRM - url entered
+2021-10-06 22:30:27,205 [main] INFO OrangeHRM - Chrome::Browser::Opened
+2021-10-06 22:30:28,384 [main] INFO OrangeHRM - Browser::Maximized
+2021-10-06 22:30:39,907 [main] INFO OrangeHRM - url entered
+2021-10-06 22:31:26,551 [main] INFO OrangeHRM - Chrome::Browser::Opened
+2021-10-06 22:31:27,735 [main] INFO OrangeHRM - Browser::Maximized
+2021-10-06 22:31:38,699 [main] INFO OrangeHRM - url entered
+2021-10-06 22:36:07,593 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:36:08,797 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:36:17,806 [main] INFO CucumberTest - url entered
+2021-10-06 22:39:10,257 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:39:11,487 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:39:19,614 [main] INFO CucumberTest - url entered
+2021-10-06 22:45:27,317 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:45:28,505 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:45:35,187 [main] INFO CucumberTest - url entered
+2021-10-06 22:47:38,715 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:47:39,039 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:47:39,916 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:47:40,267 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:47:49,268 [main] INFO CucumberTest - url entered
+2021-10-06 22:47:55,814 [main] INFO CucumberTest - url entered
+2021-10-06 22:53:51,890 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:53:53,098 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:54:01,482 [main] INFO CucumberTest - url entered
+2021-10-06 22:55:50,125 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 22:55:51,311 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 22:56:06,274 [main] INFO CucumberTest - url entered
+2021-10-06 23:02:07,466 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 23:02:08,653 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 23:02:16,485 [main] INFO CucumberTest - url entered
+2021-10-06 23:05:29,431 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-06 23:05:30,676 [main] INFO CucumberTest - Browser::Maximized
+2021-10-06 23:05:44,082 [main] INFO CucumberTest - url entered

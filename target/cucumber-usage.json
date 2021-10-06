@@ -1,0 +1,92 @@
+[
+  {
+    "source": "^User click on login button$",
+    "steps": [
+      {
+        "name": "User click on login button",
+        "aggregatedDurations": {
+          "average": 9.276037601,
+          "median": 9.276037601
+        },
+        "durations": [
+          {
+            "duration": 9.276037601,
+            "location": "Features/Pageobject.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open chromebrowser and launch application$",
+    "steps": [
+      {
+        "name": "Open chromebrowser and launch application",
+        "aggregatedDurations": {
+          "average": 18.914171432,
+          "median": 18.914171432
+        },
+        "durations": [
+          {
+            "duration": 18.914171432,
+            "location": "Features/Pageobject.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Desired Page title OrangeHRM$",
+    "steps": [
+      {
+        "name": "Desired Page title OrangeHRM",
+        "aggregatedDurations": {
+          "average": 0.009683996,
+          "median": 0.009683996
+        },
+        "durations": [
+          {
+            "duration": 0.009683996,
+            "location": "Features/Pageobject.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Browser tear down$",
+    "steps": [
+      {
+        "name": "Browser tear down",
+        "aggregatedDurations": {
+          "average": 2.112454462,
+          "median": 2.112454462
+        },
+        "durations": [
+          {
+            "duration": 2.112454462,
+            "location": "Features/Pageobject.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter correct \"([^\"]*)\" and correct \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter correct \"username\" and correct \"password\"",
+        "aggregatedDurations": {
+          "average": 0.308665553,
+          "median": 0.308665553
+        },
+        "durations": [
+          {
+            "duration": 0.308665553,
+            "location": "Features/Pageobject.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+Feature: Checking HRM login feature
+
+  Scenario: Test Login with valid credentials              # Features/Pageobject.feature:2
+    Given Open chromebrowser and launch application        # PageObjectStepDef.open_chromebrowser_and_launch_application()
+    When I enter correct "username" and correct "password" # PageObjectStepDef.i_enter_correct_and_correct(String,String)
+    When User click on login button                        # PageObjectStepDef.user_click_on_login_button()
+    Then Desired Page title OrangeHRM                      # PageObjectStepDef.Desired_page_title()
+    Then Browser tear down                                 # PageObjectStepDef.Browser_tear_down()
