@@ -1,2 +1,2 @@
-cd E:\OXYGENWORKSPACE\CucumberTest 
+cd E:\Eclipse All versions\Workspace\CucumberTest 
 mvn test

@@ -6,6 +6,7 @@ utilities\TestNGListener.class
 stepDefinition\PageObjectStepDef.class
 testRunner\PageobjectRunner.class
 stepDefinition\LoginStepDefinition.class
+extentReporter\ExtentReporterNG.class
 pageObjects\UserSearchPage.class
 testRunner\TagsRunner.class
 testRunner\TestNGRunner.class

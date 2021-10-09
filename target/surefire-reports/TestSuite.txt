@@ -1,13 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 2.858 sec <<< FAILURE! - in TestSuite
-setUpClass(testRunner.PageobjectRunner)  Time elapsed: 2.046 sec  <<< FAILURE!
-java.lang.NoSuchMethodError: cucumber.runtime.RuntimeOptions.reporter(Ljava/lang/ClassLoader;)Lgherkin/formatter/Reporter;
-	at cucumber.api.testng.TestNGCucumberRunner.<init>(TestNGCucumberRunner.java:41)
-	at testRunner.PageobjectRunner.setUpClass(PageobjectRunner.java:33)
-
-tearDownClass(testRunner.PageobjectRunner)  Time elapsed: 2.094 sec  <<< FAILURE!
-java.lang.NullPointerException: null
-	at testRunner.PageobjectRunner.tearDownClass(PageobjectRunner.java:48)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.187 sec - in TestSuite
