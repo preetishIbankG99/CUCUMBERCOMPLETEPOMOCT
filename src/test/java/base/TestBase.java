@@ -50,7 +50,7 @@ public TestBase()throws FileNotFoundException,IOException{
 
 	    } else if (browserName.equalsIgnoreCase("chrome")) {
 	    	System.setProperty("webdriver.chrome.driver", "E:\\Eclipse All versions\\Workspace\\CucumberTest\\Drivers\\chromedriver.exe");
-	  	
+	  	//System.setProperty("webdriver.chrome.driver", "../CucumberTest/Drivers/chromedriver.exe");
 	        driver = new ChromeDriver();
 	        logger.info("Chrome::Browser::Opened");
 
