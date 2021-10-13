@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "source": "^User click on login button$",
+    "steps": [
+      {
+        "name": "User click on login button",
+        "aggregatedDurations": {
+          "average": 8.05892804,
+          "median": 8.05892804
+        },
+        "durations": [
+          {
+            "duration": 8.05892804,
+            "location": "Features/Pageobject.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open chromebrowser and launch application$",
+    "steps": [
+      {
+        "name": "Open chromebrowser and launch application",
+        "aggregatedDurations": {
+          "average": 12.171370331,
+          "median": 12.171370331
+        },
+        "durations": [
+          {
+            "duration": 12.171370331,
+            "location": "Features/Pageobject.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Desired Page title OrangeHRM$",
+    "steps": [
+      {
+        "name": "Desired Page title OrangeHRM",
+        "aggregatedDurations": {
+          "average": 0.019455487,
+          "median": 0.019455487
+        },
+        "durations": [
+          {
+            "duration": 0.019455487,
+            "location": "Features/Pageobject.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Browser tear down$",
+    "steps": [
+      {
+        "name": "Browser tear down",
+        "aggregatedDurations": {
+          "average": 0.133447551,
+          "median": 0.133447551
+        },
+        "durations": [
+          {
+            "duration": 0.133447551,
+            "location": "Features/Pageobject.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter correct \"([^\"]*)\" and correct \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter correct \"username\" and correct \"password\"",
+        "aggregatedDurations": {
+          "average": 0.343183582,
+          "median": 0.343183582
+        },
+        "durations": [
+          {
+            "duration": 0.343183582,
+            "location": "Features/Pageobject.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]

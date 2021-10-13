@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 				strict=true,
 				monochrome=true,
 				dryRun=false,
-				tags= {"@Smoke,@Regression"}
+				tags= {"@Smoke,@Regression"}      //~can be used to skip test tags , is use for or and "" use for AND
 		)
 public class TagsRunner {
 	

@@ -10,7 +10,7 @@ public class CucumberTagsDefinitions {
 	public static WebDriver driver;
 	@Given("^This is valid logintest$")
 	public void this_is_valid_logintest()  {
-		System.setProperty("webdriver.chrome.driver", "E:\\OXYGENWORKSPACE\\CucumberTest\\Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\Eclipse All versions\\Workspace\\CucumberTest\\Drivers\\chromedriver.exe");
 		   driver=new ChromeDriver();
 		   driver.manage().window().maximize();
 		   driver.get("https://opensource-demo.orangehrmlive.com/");
@@ -22,7 +22,7 @@ public class CucumberTagsDefinitions {
 
 	@Given("^This is invalid logintest$")
 	public void this_is_invalid_logintest()  {
-		System.setProperty("webdriver.chrome.driver", "E:\\OXYGENWORKSPACE\\CucumberTest\\Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\Eclipse All versions\\Workspace\\CucumberTest\\Drivers\\chromedriver.exe");
 		   driver=new ChromeDriver();
 		   driver.manage().window().maximize();
 		   driver.get("https://opensource-demo.orangehrmlive.com/");

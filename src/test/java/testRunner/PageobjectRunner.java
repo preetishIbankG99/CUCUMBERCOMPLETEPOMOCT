@@ -13,7 +13,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features= "Features/Pageobject.feature",glue="stepDefinition",
+		features= "Features/Pageobject.feature",glue= {"stepDefinition","myHooks"},
 				plugin={"html:target/cucumber-html-report",
 						"json:target/cucumber.json",
 						"pretty:target/cucumber-pretty.txt",
