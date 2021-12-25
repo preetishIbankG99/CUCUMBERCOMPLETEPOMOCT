@@ -2,11 +2,10 @@ package stepDefinition;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
-
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.testng.Assert;
 import base.TestBase;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -45,7 +44,6 @@ public class PageObjectStepDef extends TestBase{
 		  lp=new AdminLoginPage(TestBase.driver);
 		  
 		lp.enteruserName(TestBase.prop.getProperty("uservalue"));
-		
 		lp.enteruserPassword(TestBase.prop.getProperty("passvalue"));
 		
 		 
@@ -54,6 +52,7 @@ public class PageObjectStepDef extends TestBase{
 	}
 	@When("^User click on login button$")
 	public void user_click_on_login_button() throws Throwable {
+		
 	    lp.clickButton();
 	    System.out.println("^^^^^^^^^^Credentials Passed^^^^^^^^^^");
 	    
@@ -62,11 +61,18 @@ public class PageObjectStepDef extends TestBase{
 
 
 	@Then("^Desired Page title OrangeHRM$")
-	public void Desired_page_title() {
+	public void Desired_page_title() throws IOException {
 	  System.out.println("Title is::: " +TestBase.driver.getTitle());
-	   
+	   if(TestBase.driver.getTitle().equals("OrangeHRM")) {
+		   Assert.assertTrue(true);
+		   System.out.println("Application passed");
+	   }
 	    
-	    
+	   else {
+		   takeScreenshot(TestBase.driver,"logintest");
+		   Assert.assertTrue(false);
+		   System.out.println("Application Failed");
+	   }
 	}
 
 	@Then("^Browser tear down$")

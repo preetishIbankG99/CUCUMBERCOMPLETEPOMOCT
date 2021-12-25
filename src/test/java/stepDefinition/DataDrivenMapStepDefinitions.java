@@ -41,17 +41,17 @@ public class DataDrivenMapStepDefinitions {
 	public void user_enters_valid_username_and_valid_password(DataTable mapcredentials) throws InterruptedException, IOException  {
 	    for(Map<String,String>data1:mapcredentials.asMaps(String.class, String.class)) {
 	    WebElement userfield=	driver.findElement(By.name("txtUsername"));
-	        TestUtil.highLightElement(driver, userfield);
+	       // TestUtil.highLightElement(driver, userfield);
 	    	userfield.sendKeys(data1.get("username"));
 	    	Thread.sleep(4000);
-	    	TestUtil.takeScreenshot(driver);
+	    //	TestUtil.takeScreenshot(driver);
 	    	System.out.println("::::::Username Screenshot Taken:::::::");
 	    	
 	    	WebElement passwdfield=driver.findElement(By.name("txtPassword"));
 	    	TestUtil.highLightElement(driver, passwdfield);
 	    	passwdfield.sendKeys(data1.get("password"));
 	    	Thread.sleep(4000);
-	    	TestUtil.takeScreenshot(driver);
+	    	//TestUtil.takeScreenshot(driver);
 	    	System.out.println("::::::Password Screenshot Taken:::::::");
 	    	
 	    	

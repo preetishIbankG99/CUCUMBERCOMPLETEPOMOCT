@@ -2,8 +2,8 @@ package testRunner;
 
 import org.junit.runner.RunWith;
 
-import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
-import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;
+//import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
+//import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

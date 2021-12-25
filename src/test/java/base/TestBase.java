@@ -4,10 +4,17 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
+
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -72,4 +79,13 @@ public TestBase()throws FileNotFoundException,IOException{
 	     driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT,TimeUnit.SECONDS);
 	     driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT,TimeUnit.SECONDS);
 	}
+	public  void takeScreenshot(WebDriver driver,String tname) throws IOException { 
+		DateFormat df=new SimpleDateFormat("dd_MMM_YYYY hh_mm_ss");
+		Date d =new Date();
+		String Time=df.format(d);
+		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+	   FileUtils.copyFile(f, new File("..\\CucumberTest\\Screenshots\\" +System.currentTimeMillis() + tname +".png"+Time));
+	   System.out.println("Screenshot Taken Successfully");//E:\Eclipse All versions\Workspace\CucumberTest
+	}
+	
 	}

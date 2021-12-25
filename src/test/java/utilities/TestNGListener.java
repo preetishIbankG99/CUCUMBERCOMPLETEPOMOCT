@@ -30,12 +30,12 @@ public class TestNGListener  implements ITestListener{
     @Override		
     public void onTestFailure(ITestResult result) {					
         System.out.println("TestCases failed and Testcase details are: "+result.getName());				
-        	try {
-				TestUtil.takeScreenshot(driver);
-			} catch (IOException e) {
-				
-				e.printStackTrace();
-			}
+//        	try {
+//				//TestUtil.takeScreenshot(driver);
+//			} catch (IOException e) {
+//				
+//				e.printStackTrace();
+//			}
     }		
 
     @Override		

@@ -5,12 +5,12 @@
       {
         "name": "User click on login button",
         "aggregatedDurations": {
-          "average": 8.05892804,
-          "median": 8.05892804
+          "average": 12.321879518,
+          "median": 12.321879518
         },
         "durations": [
           {
-            "duration": 8.05892804,
+            "duration": 12.321879518,
             "location": "Features/Pageobject.feature:5"
           }
         ]
@@ -23,12 +23,12 @@
       {
         "name": "Open chromebrowser and launch application",
         "aggregatedDurations": {
-          "average": 12.171370331,
-          "median": 12.171370331
+          "average": 17.314389219,
+          "median": 17.314389219
         },
         "durations": [
           {
-            "duration": 12.171370331,
+            "duration": 17.314389219,
             "location": "Features/Pageobject.feature:3"
           }
         ]
@@ -41,12 +41,12 @@
       {
         "name": "Desired Page title OrangeHRM",
         "aggregatedDurations": {
-          "average": 0.019455487,
-          "median": 0.019455487
+          "average": 0.026139283,
+          "median": 0.026139283
         },
         "durations": [
           {
-            "duration": 0.019455487,
+            "duration": 0.026139283,
             "location": "Features/Pageobject.feature:6"
           }
         ]
@@ -59,12 +59,12 @@
       {
         "name": "Browser tear down",
         "aggregatedDurations": {
-          "average": 0.133447551,
-          "median": 0.133447551
+          "average": 2.355951117,
+          "median": 2.355951117
         },
         "durations": [
           {
-            "duration": 0.133447551,
+            "duration": 2.355951117,
             "location": "Features/Pageobject.feature:7"
           }
         ]
@@ -77,12 +77,12 @@
       {
         "name": "I enter correct \"username\" and correct \"password\"",
         "aggregatedDurations": {
-          "average": 0.343183582,
-          "median": 0.343183582
+          "average": 0.426771785,
+          "median": 0.426771785
         },
         "durations": [
           {
-            "duration": 0.343183582,
+            "duration": 0.426771785,
             "location": "Features/Pageobject.feature:4"
           }
         ]

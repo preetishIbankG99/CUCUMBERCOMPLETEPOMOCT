@@ -7,11 +7,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 339211,
+  "duration": 887658,
   "status": "passed"
 });
 formatter.before({
-  "duration": 155340,
+  "duration": 86502,
   "status": "passed"
 });
 formatter.scenario({
@@ -51,7 +51,7 @@ formatter.match({
   "location": "PageObjectStepDef.open_chromebrowser_and_launch_application()"
 });
 formatter.result({
-  "duration": 12171370331,
+  "duration": 17314389219,
   "status": "passed"
 });
 formatter.match({
@@ -68,36 +68,36 @@ formatter.match({
   "location": "PageObjectStepDef.i_enter_correct_and_correct(String,String)"
 });
 formatter.result({
-  "duration": 343183582,
+  "duration": 426771785,
   "status": "passed"
 });
 formatter.match({
   "location": "PageObjectStepDef.user_click_on_login_button()"
 });
 formatter.result({
-  "duration": 8058928040,
+  "duration": 12321879518,
   "status": "passed"
 });
 formatter.match({
   "location": "PageObjectStepDef.Desired_page_title()"
 });
 formatter.result({
-  "duration": 19455487,
+  "duration": 26139283,
   "status": "passed"
 });
 formatter.match({
   "location": "PageObjectStepDef.Browser_tear_down()"
 });
 formatter.result({
-  "duration": 133447551,
+  "duration": 2355951117,
   "status": "passed"
 });
 formatter.after({
-  "duration": 75179,
+  "duration": 122280,
   "status": "passed"
 });
 formatter.after({
-  "duration": 142658,
+  "duration": 145377,
   "status": "passed"
 });
 });

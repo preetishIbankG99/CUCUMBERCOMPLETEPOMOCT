@@ -106,3 +106,430 @@
 2021-10-13 09:26:06,834 [main] INFO CucumberTest - Chrome::Browser::Opened
 2021-10-13 09:26:08,088 [main] INFO CucumberTest - Browser::Maximized
 2021-10-13 09:26:14,533 [main] INFO CucumberTest - url entered
+2021-10-13 10:34:59,702 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 10:35:01,146 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 10:35:09,386 [main] INFO CucumberTest - url entered
+2021-10-13 10:54:05,898 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 10:54:07,381 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 10:54:14,123 [main] INFO CucumberTest - url entered
+2021-10-13 11:06:18,304 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 11:07:08,975 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 11:07:10,395 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 11:07:16,201 [main] INFO CucumberTest - url entered
+2021-10-13 11:10:27,618 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 11:10:29,032 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 11:10:35,805 [main] INFO CucumberTest - url entered
+2021-10-13 11:12:50,163 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 11:12:51,973 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 11:12:59,953 [main] INFO CucumberTest - url entered
+2021-10-13 12:14:11,296 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 12:14:12,679 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 12:14:19,842 [main] INFO CucumberTest - url entered
+2021-10-13 12:22:24,106 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 12:22:26,164 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 12:22:39,229 [main] INFO CucumberTest - url entered
+2021-10-13 12:54:25,909 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 12:54:27,380 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 12:54:36,633 [main] INFO CucumberTest - url entered
+2021-10-13 13:08:13,033 [TestNG-test=Test-1] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 13:08:14,732 [TestNG-test=Test-1] INFO CucumberTest - Browser::Maximized
+2021-10-13 13:08:23,297 [TestNG-test=Test-1] INFO CucumberTest - url entered
+2021-10-13 13:15:31,545 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 13:15:32,764 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 13:15:38,932 [main] INFO CucumberTest - url entered
+2021-10-13 23:11:12,087 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:11:13,409 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:11:36,873 [main] INFO CucumberTest - url entered
+2021-10-13 23:11:45,571 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:11:47,009 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:11:58,463 [main] INFO CucumberTest - url entered
+2021-10-13 23:14:36,492 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:14:37,922 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:14:45,549 [main] INFO CucumberTest - url entered
+2021-10-13 23:14:56,366 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:14:57,680 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:15:09,415 [main] INFO CucumberTest - url entered
+2021-10-13 23:18:07,179 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:18:08,749 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:18:16,931 [main] INFO CucumberTest - url entered
+2021-10-13 23:18:24,615 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:18:25,792 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:18:35,528 [main] INFO CucumberTest - url entered
+2021-10-13 23:27:11,395 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:27:12,753 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:27:19,875 [main] INFO CucumberTest - url entered
+2021-10-13 23:27:27,519 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:27:28,745 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:27:36,269 [main] INFO CucumberTest - url entered
+2021-10-13 23:35:02,011 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:35:03,271 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:35:09,977 [main] INFO CucumberTest - url entered
+2021-10-13 23:36:02,128 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:36:03,544 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:36:13,807 [main] INFO CucumberTest - url entered
+2021-10-13 23:36:23,659 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:36:25,033 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:36:32,855 [main] INFO CucumberTest - url entered
+2021-10-13 23:38:32,827 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:38:34,043 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:38:41,029 [main] INFO CucumberTest - url entered
+2021-10-13 23:38:53,108 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:38:54,295 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:39:01,148 [main] INFO CucumberTest - url entered
+2021-10-13 23:41:11,354 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-13 23:41:12,822 [main] INFO CucumberTest - Browser::Maximized
+2021-10-13 23:41:20,481 [main] INFO CucumberTest - url entered
+2021-10-14 00:05:51,720 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:05:53,668 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:06:13,240 [main] INFO CucumberTest - url entered
+2021-10-14 00:12:29,108 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:12:30,868 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:12:38,586 [main] INFO CucumberTest - url entered
+2021-10-14 00:12:59,322 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:13:00,450 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:13:07,601 [main] INFO CucumberTest - url entered
+2021-10-14 00:25:21,031 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:25:25,336 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:25:46,421 [main] INFO CucumberTest - url entered
+2021-10-14 00:31:10,992 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:31:13,507 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:31:21,804 [main] INFO CucumberTest - url entered
+2021-10-14 00:31:58,539 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:32:00,789 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:32:15,692 [main] INFO CucumberTest - url entered
+2021-10-14 00:46:57,171 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:46:59,438 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:47:17,991 [main] INFO CucumberTest - url entered
+2021-10-14 00:48:01,022 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:48:02,311 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 00:48:12,560 [main] INFO CucumberTest - url entered
+2021-10-14 00:59:51,340 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 00:59:53,033 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 01:00:05,150 [main] INFO CucumberTest - url entered
+2021-10-14 01:00:22,100 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 01:00:23,228 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 01:00:33,287 [main] INFO CucumberTest - url entered
+2021-10-14 09:55:30,377 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 09:55:32,672 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 09:55:39,618 [main] INFO CucumberTest - url entered
+2021-10-14 09:56:02,741 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 09:56:03,856 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 09:56:10,496 [main] INFO CucumberTest - url entered
+2021-10-14 10:04:45,272 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 10:04:46,465 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 10:04:54,952 [main] INFO CucumberTest - url entered
+2021-10-14 10:41:35,928 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 10:41:38,068 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 10:41:45,395 [main] INFO CucumberTest - url entered
+2021-10-14 10:42:04,260 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 10:42:05,415 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 10:42:13,897 [main] INFO CucumberTest - url entered
+2021-10-14 10:43:04,675 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 10:43:05,852 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 10:43:12,722 [main] INFO CucumberTest - url entered
+2021-10-14 10:43:25,875 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 10:43:27,026 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 10:43:34,719 [main] INFO CucumberTest - url entered
+2021-10-14 16:05:28,855 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 16:05:30,770 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 16:05:39,547 [main] INFO CucumberTest - url entered
+2021-10-14 16:17:15,443 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 16:17:16,804 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 16:17:23,510 [main] INFO CucumberTest - url entered
+2021-10-14 16:17:56,919 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 16:17:58,176 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 16:18:04,405 [main] INFO CucumberTest - url entered
+2021-10-14 17:57:17,366 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 17:57:19,073 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 17:57:25,888 [main] INFO CucumberTest - url entered
+2021-10-14 17:57:52,625 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 17:57:53,759 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 17:58:00,417 [main] INFO CucumberTest - url entered
+2021-10-14 18:11:41,625 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:11:42,799 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:11:49,188 [main] INFO CucumberTest - url entered
+2021-10-14 18:12:09,062 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:12:10,214 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:12:18,301 [main] INFO CucumberTest - url entered
+2021-10-14 18:35:48,927 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:35:50,097 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:35:56,307 [main] INFO CucumberTest - url entered
+2021-10-14 18:36:13,523 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:36:14,741 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:36:20,909 [main] INFO CucumberTest - url entered
+2021-10-14 18:37:52,616 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:37:53,882 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:38:01,703 [main] INFO CucumberTest - url entered
+2021-10-14 18:38:06,170 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:38:07,402 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:38:09,196 [main] INFO CucumberTest - url entered
+2021-10-14 18:40:23,250 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:40:24,417 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:40:31,994 [main] INFO CucumberTest - url entered
+2021-10-14 18:40:41,946 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 18:40:43,115 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 18:40:50,964 [main] INFO CucumberTest - url entered
+2021-10-14 19:10:46,604 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:10:47,785 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:10:56,208 [main] INFO CucumberTest - url entered
+2021-10-14 19:11:09,262 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:11:10,424 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:11:17,386 [main] INFO CucumberTest - url entered
+2021-10-14 19:22:46,504 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:22:50,071 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:22:59,030 [main] INFO CucumberTest - url entered
+2021-10-14 19:23:17,472 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:23:18,618 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:23:28,456 [main] INFO CucumberTest - url entered
+2021-10-14 19:45:24,836 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:45:26,282 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:45:45,464 [main] INFO CucumberTest - url entered
+2021-10-14 19:45:58,798 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:45:59,926 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:46:08,862 [main] INFO CucumberTest - url entered
+2021-10-14 19:59:12,750 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:59:14,120 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:59:19,649 [main] INFO CucumberTest - url entered
+2021-10-14 19:59:37,248 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 19:59:38,388 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 19:59:46,110 [main] INFO CucumberTest - url entered
+2021-10-14 20:20:53,470 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 20:20:56,307 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 20:21:05,631 [main] INFO CucumberTest - url entered
+2021-10-14 20:28:40,701 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 20:28:42,801 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 20:28:51,722 [main] INFO CucumberTest - url entered
+2021-10-14 20:33:39,041 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 20:33:40,758 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 20:33:52,786 [main] INFO CucumberTest - url entered
+2021-10-14 20:45:36,990 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 20:45:39,187 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 20:45:45,747 [main] INFO CucumberTest - url entered
+2021-10-14 20:48:35,666 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 20:48:36,862 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 20:48:43,113 [main] INFO CucumberTest - url entered
+2021-10-14 21:03:22,077 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 21:03:24,302 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 21:03:37,454 [main] INFO CucumberTest - url entered
+2021-10-14 21:09:01,528 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 21:09:03,586 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 21:09:11,387 [main] INFO CucumberTest - url entered
+2021-10-14 21:14:11,515 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 21:14:12,725 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 21:14:18,626 [main] INFO CucumberTest - url entered
+2021-10-14 21:19:10,479 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 21:19:13,178 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 21:19:23,728 [main] INFO CucumberTest - url entered
+2021-10-14 21:27:18,968 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-14 21:27:20,230 [main] INFO CucumberTest - Browser::Maximized
+2021-10-14 21:27:26,850 [main] INFO CucumberTest - url entered
+2021-10-15 04:50:39,330 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 04:50:41,155 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 04:50:48,570 [main] INFO CucumberTest - url entered
+2021-10-15 04:51:44,400 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 04:51:45,556 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 04:51:51,972 [main] INFO CucumberTest - url entered
+2021-10-15 04:52:00,724 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 04:52:01,854 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 04:52:07,037 [main] INFO CucumberTest - url entered
+2021-10-15 05:12:45,771 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 05:12:47,112 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 05:12:53,730 [main] INFO CucumberTest - url entered
+2021-10-15 05:13:09,096 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 05:13:10,264 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 05:13:16,811 [main] INFO CucumberTest - url entered
+2021-10-15 05:36:06,077 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 05:36:07,527 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 05:36:14,706 [main] INFO CucumberTest - url entered
+2021-10-15 05:36:23,857 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 05:36:25,006 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 05:36:35,023 [main] INFO CucumberTest - url entered
+2021-10-15 06:58:54,512 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 06:58:56,248 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 06:59:06,682 [main] INFO CucumberTest - url entered
+2021-10-15 06:59:25,607 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-15 06:59:26,759 [main] INFO CucumberTest - Browser::Maximized
+2021-10-15 06:59:32,757 [main] INFO CucumberTest - url entered
+2021-10-16 21:46:34,263 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-16 21:46:37,675 [main] INFO CucumberTest - Browser::Maximized
+2021-10-16 21:46:45,514 [main] INFO CucumberTest - url entered
+2021-10-16 21:51:31,721 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-16 21:51:33,957 [main] INFO CucumberTest - Browser::Maximized
+2021-10-16 21:51:42,317 [main] INFO CucumberTest - url entered
+2021-10-16 21:53:47,683 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-16 21:53:48,858 [main] INFO CucumberTest - Browser::Maximized
+2021-10-16 21:53:55,573 [main] INFO CucumberTest - url entered
+2021-10-17 08:32:36,854 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:32:38,157 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:32:44,465 [main] INFO CucumberTest - url entered
+2021-10-17 08:34:43,767 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:34:44,950 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:34:50,730 [main] INFO CucumberTest - url entered
+2021-10-17 08:35:46,122 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:35:47,310 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:35:53,745 [main] INFO CucumberTest - url entered
+2021-10-17 08:36:39,163 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:36:40,345 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:36:46,187 [main] INFO CucumberTest - url entered
+2021-10-17 08:41:09,879 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:41:11,062 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:41:17,736 [main] INFO CucumberTest - url entered
+2021-10-17 08:45:14,692 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 08:45:15,850 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 08:45:21,792 [main] INFO CucumberTest - url entered
+2021-10-17 12:41:34,780 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 12:41:36,672 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 12:41:43,801 [main] INFO CucumberTest - url entered
+2021-10-17 12:49:39,274 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 12:49:41,121 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 12:49:47,681 [main] INFO CucumberTest - url entered
+2021-10-17 12:54:12,134 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 12:54:13,305 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 12:54:19,748 [main] INFO CucumberTest - url entered
+2021-10-17 12:56:52,875 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 12:56:54,046 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 12:56:59,979 [main] INFO CucumberTest - url entered
+2021-10-17 13:00:52,679 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 13:00:53,848 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 13:00:59,955 [main] INFO CucumberTest - url entered
+2021-10-17 13:13:03,826 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 13:13:05,001 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 13:13:10,708 [main] INFO CucumberTest - url entered
+2021-10-17 13:26:07,097 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-17 13:26:08,294 [main] INFO CucumberTest - Browser::Maximized
+2021-10-17 13:26:14,778 [main] INFO CucumberTest - url entered
+2021-10-19 02:22:01,312 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 02:22:02,958 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 02:22:12,425 [main] INFO CucumberTest - url entered
+2021-10-19 02:55:19,027 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 02:55:20,970 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 02:55:27,474 [main] INFO CucumberTest - url entered
+2021-10-19 03:06:49,436 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:06:50,617 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:06:57,042 [main] INFO CucumberTest - url entered
+2021-10-19 03:12:56,594 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:12:57,760 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:13:04,115 [main] INFO CucumberTest - url entered
+2021-10-19 03:16:06,721 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:16:07,893 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:16:14,989 [main] INFO CucumberTest - url entered
+2021-10-19 03:16:21,781 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:16:22,948 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:16:28,897 [main] INFO CucumberTest - url entered
+2021-10-19 03:43:04,875 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:43:06,029 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:43:12,989 [main] INFO CucumberTest - url entered
+2021-10-19 03:43:26,180 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 03:43:27,328 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 03:43:34,222 [main] INFO CucumberTest - url entered
+2021-10-19 11:31:24,615 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 11:31:26,045 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 11:31:40,835 [main] INFO CucumberTest - url entered
+2021-10-19 22:40:55,662 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 22:40:57,461 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 22:41:11,533 [main] INFO CucumberTest - url entered
+2021-10-19 22:41:29,007 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-19 22:41:30,189 [main] INFO CucumberTest - Browser::Maximized
+2021-10-19 22:41:37,675 [main] INFO CucumberTest - url entered
+2021-10-20 08:59:42,403 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 08:59:43,692 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 08:59:50,419 [main] INFO CucumberTest - url entered
+2021-10-20 09:00:12,407 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 09:00:13,530 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 09:00:20,059 [main] INFO CucumberTest - url entered
+2021-10-20 09:02:29,858 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 09:02:31,047 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 09:02:36,618 [main] INFO CucumberTest - url entered
+2021-10-20 09:02:47,377 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 09:02:48,514 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 09:02:55,178 [main] INFO CucumberTest - url entered
+2021-10-20 20:51:45,342 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 20:51:47,252 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 20:51:54,686 [main] INFO CucumberTest - url entered
+2021-10-20 20:58:26,203 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 20:58:27,517 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 20:58:34,222 [main] INFO CucumberTest - url entered
+2021-10-20 21:01:44,571 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-20 21:01:45,816 [main] INFO CucumberTest - Browser::Maximized
+2021-10-20 21:01:52,719 [main] INFO CucumberTest - url entered
+2021-10-21 20:35:05,624 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:35:07,867 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:35:19,866 [main] INFO CucumberTest - url entered
+2021-10-21 20:36:23,981 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:36:25,244 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:36:31,682 [main] INFO CucumberTest - url entered
+2021-10-21 20:51:54,834 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:51:56,032 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:52:02,460 [main] INFO CucumberTest - url entered
+2021-10-21 20:53:32,397 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:53:33,574 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:53:40,086 [main] INFO CucumberTest - url entered
+2021-10-21 20:56:19,650 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:56:20,886 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:56:26,882 [main] INFO CucumberTest - url entered
+2021-10-21 20:57:14,030 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-21 20:57:15,331 [main] INFO CucumberTest - Browser::Maximized
+2021-10-21 20:57:22,516 [main] INFO CucumberTest - url entered
+2021-10-28 19:57:12,125 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-28 19:57:15,041 [main] INFO CucumberTest - Browser::Maximized
+2021-10-28 19:57:22,564 [main] INFO CucumberTest - url entered
+2021-10-28 20:23:45,144 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-28 20:23:46,570 [main] INFO CucumberTest - Browser::Maximized
+2021-10-28 20:23:57,657 [main] INFO CucumberTest - url entered
+2021-10-28 20:24:21,111 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-28 20:24:22,241 [main] INFO CucumberTest - Browser::Maximized
+2021-10-28 20:24:28,173 [main] INFO CucumberTest - url entered
+2021-10-29 10:34:41,998 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:34:43,488 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:34:54,688 [main] INFO CucumberTest - url entered
+2021-10-29 10:35:15,299 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:35:16,452 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:35:22,851 [main] INFO CucumberTest - url entered
+2021-10-29 10:42:41,263 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:42:42,750 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:42:49,619 [main] INFO CucumberTest - url entered
+2021-10-29 10:43:13,287 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:43:14,437 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:43:19,646 [main] INFO CucumberTest - url entered
+2021-10-29 10:57:32,892 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:57:35,476 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:57:44,892 [main] INFO CucumberTest - url entered
+2021-10-29 10:58:03,274 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-10-29 10:58:04,425 [main] INFO CucumberTest - Browser::Maximized
+2021-10-29 10:58:12,746 [main] INFO CucumberTest - url entered
+2021-12-14 20:37:26,172 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-14 20:37:27,749 [main] INFO CucumberTest - Browser::Maximized
+2021-12-14 20:37:35,050 [main] INFO CucumberTest - url entered
+2021-12-14 20:43:00,068 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-14 20:43:01,759 [main] INFO CucumberTest - Browser::Maximized
+2021-12-14 20:43:10,218 [main] INFO CucumberTest - url entered
+2021-12-19 19:41:16,085 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-19 19:41:18,453 [main] INFO CucumberTest - Browser::Maximized
+2021-12-19 19:41:25,014 [main] INFO CucumberTest - url entered
+2021-12-21 14:15:21,213 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 14:15:23,899 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 14:15:32,632 [main] INFO CucumberTest - url entered
+2021-12-21 14:33:04,039 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 14:33:05,389 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 14:33:11,044 [main] INFO CucumberTest - url entered
+2021-12-21 15:02:10,604 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 15:02:11,844 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 15:02:18,609 [main] INFO CucumberTest - url entered
+2021-12-21 16:09:28,232 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 16:09:31,274 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 16:09:42,321 [main] INFO CucumberTest - url entered
+2021-12-21 18:41:25,309 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 18:41:26,888 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 18:41:34,453 [main] INFO CucumberTest - url entered
+2021-12-21 19:56:02,887 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-21 19:56:07,299 [main] INFO CucumberTest - Browser::Maximized
+2021-12-21 19:56:13,632 [main] INFO CucumberTest - url entered
+2021-12-24 21:48:49,744 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-24 21:48:51,512 [main] INFO CucumberTest - Browser::Maximized
+2021-12-24 21:48:57,330 [main] INFO CucumberTest - url entered
+2021-12-24 22:08:49,479 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-24 22:08:50,863 [main] INFO CucumberTest - Browser::Maximized
+2021-12-24 22:08:57,871 [main] INFO CucumberTest - url entered
+2021-12-24 22:10:33,927 [main] INFO CucumberTest - Chrome::Browser::Opened
+2021-12-24 22:10:35,189 [main] INFO CucumberTest - Browser::Maximized
+2021-12-24 22:10:43,354 [main] INFO CucumberTest - url entered

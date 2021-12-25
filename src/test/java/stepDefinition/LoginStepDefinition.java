@@ -1,12 +1,9 @@
 package stepDefinition;
 
-import java.io.File;
+
 import java.io.IOException;
 
-import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -44,15 +41,15 @@ public class LoginStepDefinition {
 	TestUtil.highLightElement(driver, uid); 
 	uid.sendKeys(username);
 	
-	TestUtil.takeScreenshot(driver);
-	Thread.sleep(4000); 
+//	TestUtil.takeScreenshot(driver);
+//	Thread.sleep(4000); 
 	
 	WebElement pwd=driver.findElement(By.name("txtPassword"));
 	TestUtil.highLightElement(driver, pwd); 
 	pwd.sendKeys(password);
 	
-	 TestUtil.takeScreenshot(driver);
-	 Thread.sleep(3000);
+//	 TestUtil.takeScreenshot(driver);
+//	 Thread.sleep(3000);
 	 }
 	
 	 @Then("^user clicks on login button$")
