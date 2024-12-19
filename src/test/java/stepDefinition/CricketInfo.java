@@ -81,6 +81,11 @@ public class CricketInfo {
 
 
     }
+    @Then("I close browser")
+    public void i_close_browser() {
+       driver.close();
+        log.info("$$$Browser Closed$$$");
+    }
 }
 
 
