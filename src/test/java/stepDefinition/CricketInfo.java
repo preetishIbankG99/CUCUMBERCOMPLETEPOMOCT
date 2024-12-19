@@ -51,7 +51,7 @@ public class CricketInfo {
         }
         @When("I Entered Url")
         public void i_entered_url() throws FileNotFoundException {
-            FileReader reader=new FileReader("C:\\Users\\Preetish\\CUCUMBERCOMPLETEPOMOCT\\config\\object.properties");
+            FileReader reader=new FileReader("C:\\Users\\Preetish\\CUCUMBERCOMPLETEPOM\\config\\object.properties");
             Properties prop = new Properties();
             try{
                 prop.load(reader);

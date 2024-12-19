@@ -720,3 +720,135 @@ Victoria Women
 South Australia Women
 Match yet to begin
 2024-12-19 21:01:18,566 - stepDefinition.CricketInfo -INFO - $$$Browser Closed$$$
+2024-12-19 22:18:17,840 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 22:18:19,980 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 22:18:35,561 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 22:18:35,957 - stepDefinition.CricketInfo -INFO - Match: 1
+2024-12-19 22:18:36,003 - stepDefinition.CricketInfo -INFO - LIVE
+2nd ODI (D/N), Cape Town, December 19, 2024, Pakistan tour of South Africa
+Pakistan
+329
+South Africa
+(5.5/50 ov, T:330) 34/0
+South Africa need 296 runs from 44.1 overs.
+2024-12-19 22:18:36,003 - stepDefinition.CricketInfo -INFO - Match: 2
+2024-12-19 22:18:36,063 - stepDefinition.CricketInfo -INFO - RESULT
+2nd ODI, Harare, December 19, 2024, Afghanistan tour of Zimbabwe
+Afghanistan
+286/6
+Zimbabwe
+(17.5/50 ov, T:287) 54
+Afghanistan won by 232 runs
+2024-12-19 22:18:36,065 - stepDefinition.CricketInfo -INFO - Match: 3
+2024-12-19 22:18:36,090 - stepDefinition.CricketInfo -INFO - TOMORROW, 5:30 AM
+3rd T20I (N), Kingstown, December 19, 2024, Bangladesh tour of West Indies
+West Indies
+Bangladesh
+Match yet to begin
+2024-12-19 22:18:36,090 - stepDefinition.CricketInfo -INFO - Match: 4
+2024-12-19 22:18:36,122 - stepDefinition.CricketInfo -INFO - RESULT
+8th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Bangladesh Women Under-19s
+80/8
+India Women Under-19s
+(12.1/20 ov, T:81) 86/2
+IND-WMN U19 won by 8 wickets (with 47 balls remaining)
+2024-12-19 22:18:36,124 - stepDefinition.CricketInfo -INFO - Match: 5
+2024-12-19 22:18:36,214 - stepDefinition.CricketInfo -INFO - NO RESULT
+9th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Sri Lanka Women Under-19s
+(1/20 ov) 1/1
+Nepal Women Under-19s
+No result
+2024-12-19 22:18:36,214 - stepDefinition.CricketInfo -INFO - Match: 6
+2024-12-19 22:18:36,287 - stepDefinition.CricketInfo -INFO - RESULT
+5th Match (N), Geelong, December 19, 2024, Big Bash League
+Hobart Hurricanes
+74
+Melbourne Renegades
+(9/20 ov, T:75) 78/4
+Renegades won by 6 wickets (with 66 balls remaining)
+2024-12-19 22:18:36,289 - stepDefinition.CricketInfo -INFO - Match: 7
+2024-12-19 22:18:36,380 - stepDefinition.CricketInfo -INFO - RESULT
+Qualifier 2, Kirtipur, December 19, 2024, Nepal Premier League
+Karnali Yaks (NPL)
+118/9
+Janakpur Bolts (NPL)
+(19/20 ov, T:119) 119/8
+Janakpur won by 2 wickets (with 6 balls remaining)
+2024-12-19 22:18:36,380 - stepDefinition.CricketInfo -INFO - Match: 8
+2024-12-19 22:18:36,413 - stepDefinition.CricketInfo -INFO - RESULT
+13th Match, ICCA Dubai, December 19, 2024, Gulf T20I Championship
+Saudi Arabia
+182/8
+United Arab Emirates
+(20 ov, T:183) 171/5
+Saudi Arabia won by 11 runs
+2024-12-19 22:18:36,413 - stepDefinition.CricketInfo -INFO - Match: 9
+2024-12-19 22:18:36,445 - stepDefinition.CricketInfo -INFO - ABANDONED
+1st ODI, Wellington, December 19, 2024, Australia Women tour of New Zealand
+New Zealand Women
+Australia Women
+Match abandoned without a ball bowled
+2024-12-19 22:18:36,461 - stepDefinition.CricketInfo -INFO - Match: 10
+2024-12-19 22:18:36,636 - stepDefinition.CricketInfo -INFO - TOMORROW, 1:45 PM
+6th Match (N), Adelaide, December 20, 2024, Big Bash League
+Adelaide Strikers
+Melbourne Stars
+Match yet to begin
+2024-12-19 22:18:36,636 - stepDefinition.CricketInfo -INFO - Match: 11
+2024-12-19 22:18:36,668 - stepDefinition.CricketInfo -INFO - TOMORROW, 10:30 AM
+14th Match, ICCA Dubai, December 20, 2024, Gulf T20I Championship
+Bahrain
+Qatar
+Match yet to begin
+2024-12-19 22:18:36,668 - stepDefinition.CricketInfo -INFO - Match: 12
+2024-12-19 22:18:36,701 - stepDefinition.CricketInfo -INFO - TOMORROW, 3:00 PM
+15th Match, ICCA Dubai, December 20, 2024, Gulf T20I Championship
+Kuwait
+Oman
+Match yet to begin
+2024-12-19 22:18:36,701 - stepDefinition.CricketInfo -INFO - Match: 13
+2024-12-19 22:18:36,738 - stepDefinition.CricketInfo -INFO - TOMORROW, 8:30 AM
+3rd Match, Mulpani, December 20, 2024, Hong Kong Under-19s tour of Nepal
+Nepal Under-19s
+Hong Kong Under-19s
+Match yet to begin
+2024-12-19 22:18:36,738 - stepDefinition.CricketInfo -INFO - Match: 14
+2024-12-19 22:18:36,768 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+16th Match, Gqeberha, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Warriors
+157
+Titans
+(23 ov) 86/3
+Day 1 - Titans trail by 71 runs.
+2024-12-19 22:18:36,768 - stepDefinition.CricketInfo -INFO - Match: 15
+2024-12-19 22:18:36,793 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+17th Match, Durban, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Dolphins
+Boland
+2024-12-19 22:18:36,793 - stepDefinition.CricketInfo -INFO - Match: 16
+2024-12-19 22:18:37,403 - stepDefinition.CricketInfo -INFO - TOMORROW, 4:30 AM
+16th Match, Canberra, December 20, 2024, Women's National Cricket League
+Australian Capital Territory Women
+Queensland Women
+Match yet to begin
+2024-12-19 22:18:37,403 - stepDefinition.CricketInfo -INFO - Match: 17
+2024-12-19 22:18:37,488 - stepDefinition.CricketInfo -INFO - TOMORROW, 4:30 AM
+17th Match, Melbourne, December 20, 2024, Women's National Cricket League
+Victoria Women
+South Australia Women
+Match yet to begin
+2024-12-19 22:18:37,488 - stepDefinition.CricketInfo -INFO - Match: 18
+2024-12-19 22:18:37,544 - stepDefinition.CricketInfo -INFO - TOMORROW, 7:00 AM
+10th Match, Super Four, Kuala Lumpur, December 20, 2024, Under-19 Women's T20 Asia Cup
+India Women Under-19s
+Sri Lanka Women Under-19s
+Match yet to begin
+2024-12-19 22:18:37,544 - stepDefinition.CricketInfo -INFO - Match: 19
+2024-12-19 22:18:38,007 - stepDefinition.CricketInfo -INFO - TOMORROW, 11:30 AM
+11th Match, Super Four, Kuala Lumpur, December 20, 2024, Under-19 Women's T20 Asia Cup
+Bangladesh Women Under-19s
+Nepal Women Under-19s
+Match yet to begin
+2024-12-19 22:18:38,470 - stepDefinition.CricketInfo -INFO - $$$Browser Closed$$$
