@@ -1,535 +1,321 @@
-2021-10-06 22:24:41,315 - OrangeHRM -INFO - Chrome::Browser::Opened
-2021-10-06 22:24:42,497 - OrangeHRM -INFO - Browser::Maximized
-2021-10-06 22:24:51,001 - OrangeHRM -INFO - url entered
-2021-10-06 22:27:49,346 - OrangeHRM -INFO - Chrome::Browser::Opened
-2021-10-06 22:27:50,557 - OrangeHRM -INFO - Browser::Maximized
-2021-10-06 22:28:00,513 - OrangeHRM -INFO - url entered
-2021-10-06 22:29:28,466 - OrangeHRM -INFO - Chrome::Browser::Opened
-2021-10-06 22:29:29,679 - OrangeHRM -INFO - Browser::Maximized
-2021-10-06 22:29:39,223 - OrangeHRM -INFO - url entered
-2021-10-06 22:30:27,205 - OrangeHRM -INFO - Chrome::Browser::Opened
-2021-10-06 22:30:28,384 - OrangeHRM -INFO - Browser::Maximized
-2021-10-06 22:30:39,907 - OrangeHRM -INFO - url entered
-2021-10-06 22:31:26,551 - OrangeHRM -INFO - Chrome::Browser::Opened
-2021-10-06 22:31:27,735 - OrangeHRM -INFO - Browser::Maximized
-2021-10-06 22:31:38,699 - OrangeHRM -INFO - url entered
-2021-10-06 22:36:07,593 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:36:08,797 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:36:17,806 - CucumberTest -INFO - url entered
-2021-10-06 22:39:10,257 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:39:11,487 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:39:19,614 - CucumberTest -INFO - url entered
-2021-10-06 22:45:27,317 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:45:28,505 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:45:35,187 - CucumberTest -INFO - url entered
-2021-10-06 22:47:38,715 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:47:39,039 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:47:39,916 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:47:40,267 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:47:49,268 - CucumberTest -INFO - url entered
-2021-10-06 22:47:55,814 - CucumberTest -INFO - url entered
-2021-10-06 22:53:51,890 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:53:53,098 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:54:01,482 - CucumberTest -INFO - url entered
-2021-10-06 22:55:50,125 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 22:55:51,311 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 22:56:06,274 - CucumberTest -INFO - url entered
-2021-10-06 23:02:07,466 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 23:02:08,653 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 23:02:16,485 - CucumberTest -INFO - url entered
-2021-10-06 23:05:29,431 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-06 23:05:30,676 - CucumberTest -INFO - Browser::Maximized
-2021-10-06 23:05:44,082 - CucumberTest -INFO - url entered
-2021-10-07 00:00:19,090 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 00:00:20,437 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 00:00:28,162 - CucumberTest -INFO - url entered
-2021-10-07 00:04:18,675 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 00:04:19,847 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 00:04:27,843 - CucumberTest -INFO - url entered
-2021-10-07 00:06:14,298 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 00:06:15,464 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 00:06:22,733 - CucumberTest -INFO - url entered
-2021-10-07 09:21:27,284 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 09:21:28,834 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 09:21:38,706 - CucumberTest -INFO - url entered
-2021-10-07 09:34:43,784 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 09:34:44,972 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 09:34:50,919 - CucumberTest -INFO - url entered
-2021-10-07 10:20:11,168 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 10:20:12,524 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 10:20:18,083 - CucumberTest -INFO - url entered
-2021-10-07 10:21:08,554 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 10:21:09,825 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 10:21:15,742 - CucumberTest -INFO - url entered
-2021-10-07 10:22:12,727 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 10:22:13,893 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 10:22:21,465 - CucumberTest -INFO - url entered
-2021-10-07 10:23:33,025 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 10:23:34,222 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 10:23:41,614 - CucumberTest -INFO - url entered
-2021-10-07 10:49:44,446 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 10:49:46,049 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 10:49:54,956 - CucumberTest -INFO - url entered
-2021-10-07 12:29:36,885 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 12:29:38,568 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 12:29:44,609 - CucumberTest -INFO - url entered
-2021-10-07 12:32:44,786 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-07 12:32:46,453 - CucumberTest -INFO - Browser::Maximized
-2021-10-07 12:32:51,725 - CucumberTest -INFO - url entered
-2021-10-08 18:49:28,967 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-08 18:49:30,632 - CucumberTest -INFO - Browser::Maximized
-2021-10-08 18:49:38,089 - CucumberTest -INFO - url entered
-2021-10-09 15:12:00,196 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-09 15:12:02,061 - CucumberTest -INFO - Browser::Maximized
-2021-10-09 15:12:08,106 - CucumberTest -INFO - url entered
-2021-10-09 17:46:24,490 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-09 17:46:26,083 - CucumberTest -INFO - Browser::Maximized
-2021-10-09 17:46:33,508 - CucumberTest -INFO - url entered
-2021-10-12 13:13:05,050 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-12 13:13:06,707 - CucumberTest -INFO - Browser::Maximized
-2021-10-12 13:13:18,100 - CucumberTest -INFO - url entered
-2021-10-12 13:16:00,663 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-12 13:16:02,481 - CucumberTest -INFO - Browser::Maximized
-2021-10-12 13:16:11,190 - CucumberTest -INFO - url entered
-2021-10-12 14:17:48,670 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-12 14:17:50,128 - CucumberTest -INFO - Browser::Maximized
-2021-10-12 14:17:57,349 - CucumberTest -INFO - url entered
-2021-10-13 09:11:22,821 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 09:11:24,402 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 09:11:28,867 - CucumberTest -INFO - url entered
-2021-10-13 09:12:39,605 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 09:12:40,766 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 09:12:47,836 - CucumberTest -INFO - url entered
-2021-10-13 09:23:51,433 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 09:23:52,799 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 09:23:58,963 - CucumberTest -INFO - url entered
-2021-10-13 09:26:06,834 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 09:26:08,088 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 09:26:14,533 - CucumberTest -INFO - url entered
-2021-10-13 10:34:59,702 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 10:35:01,146 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 10:35:09,386 - CucumberTest -INFO - url entered
-2021-10-13 10:54:05,898 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 10:54:07,381 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 10:54:14,123 - CucumberTest -INFO - url entered
-2021-10-13 11:06:18,304 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 11:07:08,975 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 11:07:10,395 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 11:07:16,201 - CucumberTest -INFO - url entered
-2021-10-13 11:10:27,618 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 11:10:29,032 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 11:10:35,805 - CucumberTest -INFO - url entered
-2021-10-13 11:12:50,163 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 11:12:51,973 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 11:12:59,953 - CucumberTest -INFO - url entered
-2021-10-13 12:14:11,296 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 12:14:12,679 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 12:14:19,842 - CucumberTest -INFO - url entered
-2021-10-13 12:22:24,106 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 12:22:26,164 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 12:22:39,229 - CucumberTest -INFO - url entered
-2021-10-13 12:54:25,909 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 12:54:27,380 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 12:54:36,633 - CucumberTest -INFO - url entered
-2021-10-13 13:08:13,033 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 13:08:14,732 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 13:08:23,297 - CucumberTest -INFO - url entered
-2021-10-13 13:15:31,545 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 13:15:32,764 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 13:15:38,932 - CucumberTest -INFO - url entered
-2021-10-13 23:11:12,087 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:11:13,409 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:11:36,873 - CucumberTest -INFO - url entered
-2021-10-13 23:11:45,571 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:11:47,009 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:11:58,463 - CucumberTest -INFO - url entered
-2021-10-13 23:14:36,492 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:14:37,922 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:14:45,549 - CucumberTest -INFO - url entered
-2021-10-13 23:14:56,366 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:14:57,680 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:15:09,415 - CucumberTest -INFO - url entered
-2021-10-13 23:18:07,179 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:18:08,749 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:18:16,931 - CucumberTest -INFO - url entered
-2021-10-13 23:18:24,615 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:18:25,792 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:18:35,528 - CucumberTest -INFO - url entered
-2021-10-13 23:27:11,395 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:27:12,753 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:27:19,875 - CucumberTest -INFO - url entered
-2021-10-13 23:27:27,519 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:27:28,745 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:27:36,269 - CucumberTest -INFO - url entered
-2021-10-13 23:35:02,011 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:35:03,271 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:35:09,977 - CucumberTest -INFO - url entered
-2021-10-13 23:36:02,128 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:36:03,544 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:36:13,807 - CucumberTest -INFO - url entered
-2021-10-13 23:36:23,659 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:36:25,033 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:36:32,855 - CucumberTest -INFO - url entered
-2021-10-13 23:38:32,827 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:38:34,043 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:38:41,029 - CucumberTest -INFO - url entered
-2021-10-13 23:38:53,108 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:38:54,295 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:39:01,148 - CucumberTest -INFO - url entered
-2021-10-13 23:41:11,354 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-13 23:41:12,822 - CucumberTest -INFO - Browser::Maximized
-2021-10-13 23:41:20,481 - CucumberTest -INFO - url entered
-2021-10-14 00:05:51,720 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:05:53,668 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:06:13,240 - CucumberTest -INFO - url entered
-2021-10-14 00:12:29,108 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:12:30,868 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:12:38,586 - CucumberTest -INFO - url entered
-2021-10-14 00:12:59,322 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:13:00,450 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:13:07,601 - CucumberTest -INFO - url entered
-2021-10-14 00:25:21,031 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:25:25,336 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:25:46,421 - CucumberTest -INFO - url entered
-2021-10-14 00:31:10,992 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:31:13,507 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:31:21,804 - CucumberTest -INFO - url entered
-2021-10-14 00:31:58,539 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:32:00,789 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:32:15,692 - CucumberTest -INFO - url entered
-2021-10-14 00:46:57,171 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:46:59,438 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:47:17,991 - CucumberTest -INFO - url entered
-2021-10-14 00:48:01,022 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:48:02,311 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 00:48:12,560 - CucumberTest -INFO - url entered
-2021-10-14 00:59:51,340 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 00:59:53,033 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 01:00:05,150 - CucumberTest -INFO - url entered
-2021-10-14 01:00:22,100 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 01:00:23,228 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 01:00:33,287 - CucumberTest -INFO - url entered
-2021-10-14 09:55:30,377 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 09:55:32,672 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 09:55:39,618 - CucumberTest -INFO - url entered
-2021-10-14 09:56:02,741 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 09:56:03,856 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 09:56:10,496 - CucumberTest -INFO - url entered
-2021-10-14 10:04:45,272 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 10:04:46,465 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 10:04:54,952 - CucumberTest -INFO - url entered
-2021-10-14 10:41:35,928 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 10:41:38,068 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 10:41:45,395 - CucumberTest -INFO - url entered
-2021-10-14 10:42:04,260 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 10:42:05,415 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 10:42:13,897 - CucumberTest -INFO - url entered
-2021-10-14 10:43:04,675 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 10:43:05,852 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 10:43:12,722 - CucumberTest -INFO - url entered
-2021-10-14 10:43:25,875 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 10:43:27,026 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 10:43:34,719 - CucumberTest -INFO - url entered
-2021-10-14 16:05:28,855 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 16:05:30,770 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 16:05:39,547 - CucumberTest -INFO - url entered
-2021-10-14 16:17:15,443 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 16:17:16,804 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 16:17:23,510 - CucumberTest -INFO - url entered
-2021-10-14 16:17:56,919 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 16:17:58,176 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 16:18:04,405 - CucumberTest -INFO - url entered
-2021-10-14 17:57:17,366 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 17:57:19,073 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 17:57:25,888 - CucumberTest -INFO - url entered
-2021-10-14 17:57:52,625 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 17:57:53,759 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 17:58:00,417 - CucumberTest -INFO - url entered
-2021-10-14 18:11:41,625 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:11:42,799 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:11:49,188 - CucumberTest -INFO - url entered
-2021-10-14 18:12:09,062 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:12:10,214 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:12:18,301 - CucumberTest -INFO - url entered
-2021-10-14 18:35:48,927 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:35:50,097 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:35:56,307 - CucumberTest -INFO - url entered
-2021-10-14 18:36:13,523 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:36:14,741 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:36:20,909 - CucumberTest -INFO - url entered
-2021-10-14 18:37:52,616 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:37:53,882 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:38:01,703 - CucumberTest -INFO - url entered
-2021-10-14 18:38:06,170 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:38:07,402 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:38:09,196 - CucumberTest -INFO - url entered
-2021-10-14 18:40:23,250 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:40:24,417 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:40:31,994 - CucumberTest -INFO - url entered
-2021-10-14 18:40:41,946 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 18:40:43,115 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 18:40:50,964 - CucumberTest -INFO - url entered
-2021-10-14 19:10:46,604 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:10:47,785 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:10:56,208 - CucumberTest -INFO - url entered
-2021-10-14 19:11:09,262 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:11:10,424 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:11:17,386 - CucumberTest -INFO - url entered
-2021-10-14 19:22:46,504 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:22:50,071 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:22:59,030 - CucumberTest -INFO - url entered
-2021-10-14 19:23:17,472 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:23:18,618 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:23:28,456 - CucumberTest -INFO - url entered
-2021-10-14 19:45:24,836 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:45:26,282 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:45:45,464 - CucumberTest -INFO - url entered
-2021-10-14 19:45:58,798 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:45:59,926 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:46:08,862 - CucumberTest -INFO - url entered
-2021-10-14 19:59:12,750 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:59:14,120 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:59:19,649 - CucumberTest -INFO - url entered
-2021-10-14 19:59:37,248 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 19:59:38,388 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 19:59:46,110 - CucumberTest -INFO - url entered
-2021-10-14 20:20:53,470 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 20:20:56,307 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 20:21:05,631 - CucumberTest -INFO - url entered
-2021-10-14 20:28:40,701 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 20:28:42,801 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 20:28:51,722 - CucumberTest -INFO - url entered
-2021-10-14 20:33:39,041 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 20:33:40,758 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 20:33:52,786 - CucumberTest -INFO - url entered
-2021-10-14 20:45:36,990 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 20:45:39,187 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 20:45:45,747 - CucumberTest -INFO - url entered
-2021-10-14 20:48:35,666 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 20:48:36,862 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 20:48:43,113 - CucumberTest -INFO - url entered
-2021-10-14 21:03:22,077 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 21:03:24,302 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 21:03:37,454 - CucumberTest -INFO - url entered
-2021-10-14 21:09:01,528 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 21:09:03,586 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 21:09:11,387 - CucumberTest -INFO - url entered
-2021-10-14 21:14:11,515 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 21:14:12,725 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 21:14:18,626 - CucumberTest -INFO - url entered
-2021-10-14 21:19:10,479 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 21:19:13,178 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 21:19:23,728 - CucumberTest -INFO - url entered
-2021-10-14 21:27:18,968 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-14 21:27:20,230 - CucumberTest -INFO - Browser::Maximized
-2021-10-14 21:27:26,850 - CucumberTest -INFO - url entered
-2021-10-15 04:50:39,330 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 04:50:41,155 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 04:50:48,570 - CucumberTest -INFO - url entered
-2021-10-15 04:51:44,400 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 04:51:45,556 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 04:51:51,972 - CucumberTest -INFO - url entered
-2021-10-15 04:52:00,724 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 04:52:01,854 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 04:52:07,037 - CucumberTest -INFO - url entered
-2021-10-15 05:12:45,771 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 05:12:47,112 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 05:12:53,730 - CucumberTest -INFO - url entered
-2021-10-15 05:13:09,096 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 05:13:10,264 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 05:13:16,811 - CucumberTest -INFO - url entered
-2021-10-15 05:36:06,077 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 05:36:07,527 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 05:36:14,706 - CucumberTest -INFO - url entered
-2021-10-15 05:36:23,857 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 05:36:25,006 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 05:36:35,023 - CucumberTest -INFO - url entered
-2021-10-15 06:58:54,512 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 06:58:56,248 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 06:59:06,682 - CucumberTest -INFO - url entered
-2021-10-15 06:59:25,607 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-15 06:59:26,759 - CucumberTest -INFO - Browser::Maximized
-2021-10-15 06:59:32,757 - CucumberTest -INFO - url entered
-2021-10-16 21:46:34,263 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-16 21:46:37,675 - CucumberTest -INFO - Browser::Maximized
-2021-10-16 21:46:45,514 - CucumberTest -INFO - url entered
-2021-10-16 21:51:31,721 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-16 21:51:33,957 - CucumberTest -INFO - Browser::Maximized
-2021-10-16 21:51:42,317 - CucumberTest -INFO - url entered
-2021-10-16 21:53:47,683 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-16 21:53:48,858 - CucumberTest -INFO - Browser::Maximized
-2021-10-16 21:53:55,573 - CucumberTest -INFO - url entered
-2021-10-17 08:32:36,854 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:32:38,157 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:32:44,465 - CucumberTest -INFO - url entered
-2021-10-17 08:34:43,767 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:34:44,950 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:34:50,730 - CucumberTest -INFO - url entered
-2021-10-17 08:35:46,122 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:35:47,310 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:35:53,745 - CucumberTest -INFO - url entered
-2021-10-17 08:36:39,163 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:36:40,345 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:36:46,187 - CucumberTest -INFO - url entered
-2021-10-17 08:41:09,879 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:41:11,062 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:41:17,736 - CucumberTest -INFO - url entered
-2021-10-17 08:45:14,692 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 08:45:15,850 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 08:45:21,792 - CucumberTest -INFO - url entered
-2021-10-17 12:41:34,780 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 12:41:36,672 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 12:41:43,801 - CucumberTest -INFO - url entered
-2021-10-17 12:49:39,274 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 12:49:41,121 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 12:49:47,681 - CucumberTest -INFO - url entered
-2021-10-17 12:54:12,134 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 12:54:13,305 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 12:54:19,748 - CucumberTest -INFO - url entered
-2021-10-17 12:56:52,875 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 12:56:54,046 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 12:56:59,979 - CucumberTest -INFO - url entered
-2021-10-17 13:00:52,679 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 13:00:53,848 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 13:00:59,955 - CucumberTest -INFO - url entered
-2021-10-17 13:13:03,826 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 13:13:05,001 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 13:13:10,708 - CucumberTest -INFO - url entered
-2021-10-17 13:26:07,097 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-17 13:26:08,294 - CucumberTest -INFO - Browser::Maximized
-2021-10-17 13:26:14,778 - CucumberTest -INFO - url entered
-2021-10-19 02:22:01,312 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 02:22:02,958 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 02:22:12,425 - CucumberTest -INFO - url entered
-2021-10-19 02:55:19,027 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 02:55:20,970 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 02:55:27,474 - CucumberTest -INFO - url entered
-2021-10-19 03:06:49,436 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:06:50,617 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:06:57,042 - CucumberTest -INFO - url entered
-2021-10-19 03:12:56,594 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:12:57,760 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:13:04,115 - CucumberTest -INFO - url entered
-2021-10-19 03:16:06,721 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:16:07,893 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:16:14,989 - CucumberTest -INFO - url entered
-2021-10-19 03:16:21,781 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:16:22,948 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:16:28,897 - CucumberTest -INFO - url entered
-2021-10-19 03:43:04,875 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:43:06,029 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:43:12,989 - CucumberTest -INFO - url entered
-2021-10-19 03:43:26,180 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 03:43:27,328 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 03:43:34,222 - CucumberTest -INFO - url entered
-2021-10-19 11:31:24,615 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 11:31:26,045 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 11:31:40,835 - CucumberTest -INFO - url entered
-2021-10-19 22:40:55,662 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 22:40:57,461 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 22:41:11,533 - CucumberTest -INFO - url entered
-2021-10-19 22:41:29,007 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-19 22:41:30,189 - CucumberTest -INFO - Browser::Maximized
-2021-10-19 22:41:37,675 - CucumberTest -INFO - url entered
-2021-10-20 08:59:42,403 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 08:59:43,692 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 08:59:50,419 - CucumberTest -INFO - url entered
-2021-10-20 09:00:12,407 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 09:00:13,530 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 09:00:20,059 - CucumberTest -INFO - url entered
-2021-10-20 09:02:29,858 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 09:02:31,047 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 09:02:36,618 - CucumberTest -INFO - url entered
-2021-10-20 09:02:47,377 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 09:02:48,514 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 09:02:55,178 - CucumberTest -INFO - url entered
-2021-10-20 20:51:45,342 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 20:51:47,252 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 20:51:54,686 - CucumberTest -INFO - url entered
-2021-10-20 20:58:26,203 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 20:58:27,517 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 20:58:34,222 - CucumberTest -INFO - url entered
-2021-10-20 21:01:44,571 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-20 21:01:45,816 - CucumberTest -INFO - Browser::Maximized
-2021-10-20 21:01:52,719 - CucumberTest -INFO - url entered
-2021-10-21 20:35:05,624 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:35:07,867 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:35:19,866 - CucumberTest -INFO - url entered
-2021-10-21 20:36:23,981 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:36:25,244 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:36:31,682 - CucumberTest -INFO - url entered
-2021-10-21 20:51:54,834 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:51:56,032 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:52:02,460 - CucumberTest -INFO - url entered
-2021-10-21 20:53:32,397 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:53:33,574 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:53:40,086 - CucumberTest -INFO - url entered
-2021-10-21 20:56:19,650 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:56:20,886 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:56:26,882 - CucumberTest -INFO - url entered
-2021-10-21 20:57:14,030 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-21 20:57:15,331 - CucumberTest -INFO - Browser::Maximized
-2021-10-21 20:57:22,516 - CucumberTest -INFO - url entered
-2021-10-28 19:57:12,125 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-28 19:57:15,041 - CucumberTest -INFO - Browser::Maximized
-2021-10-28 19:57:22,564 - CucumberTest -INFO - url entered
-2021-10-28 20:23:45,144 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-28 20:23:46,570 - CucumberTest -INFO - Browser::Maximized
-2021-10-28 20:23:57,657 - CucumberTest -INFO - url entered
-2021-10-28 20:24:21,111 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-28 20:24:22,241 - CucumberTest -INFO - Browser::Maximized
-2021-10-28 20:24:28,173 - CucumberTest -INFO - url entered
-2021-10-29 10:34:41,998 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:34:43,488 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:34:54,688 - CucumberTest -INFO - url entered
-2021-10-29 10:35:15,299 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:35:16,452 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:35:22,851 - CucumberTest -INFO - url entered
-2021-10-29 10:42:41,263 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:42:42,750 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:42:49,619 - CucumberTest -INFO - url entered
-2021-10-29 10:43:13,287 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:43:14,437 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:43:19,646 - CucumberTest -INFO - url entered
-2021-10-29 10:57:32,892 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:57:35,476 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:57:44,892 - CucumberTest -INFO - url entered
-2021-10-29 10:58:03,274 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-10-29 10:58:04,425 - CucumberTest -INFO - Browser::Maximized
-2021-10-29 10:58:12,746 - CucumberTest -INFO - url entered
-2021-12-14 20:37:26,172 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-14 20:37:27,749 - CucumberTest -INFO - Browser::Maximized
-2021-12-14 20:37:35,050 - CucumberTest -INFO - url entered
-2021-12-14 20:43:00,068 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-14 20:43:01,759 - CucumberTest -INFO - Browser::Maximized
-2021-12-14 20:43:10,218 - CucumberTest -INFO - url entered
-2021-12-19 19:41:16,085 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-19 19:41:18,453 - CucumberTest -INFO - Browser::Maximized
-2021-12-19 19:41:25,014 - CucumberTest -INFO - url entered
-2021-12-21 14:15:21,213 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 14:15:23,899 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 14:15:32,632 - CucumberTest -INFO - url entered
-2021-12-21 14:33:04,039 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 14:33:05,389 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 14:33:11,044 - CucumberTest -INFO - url entered
-2021-12-21 15:02:10,604 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 15:02:11,844 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 15:02:18,609 - CucumberTest -INFO - url entered
-2021-12-21 16:09:28,232 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 16:09:31,274 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 16:09:42,321 - CucumberTest -INFO - url entered
-2021-12-21 18:41:25,309 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 18:41:26,888 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 18:41:34,453 - CucumberTest -INFO - url entered
-2021-12-21 19:56:02,887 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-21 19:56:07,299 - CucumberTest -INFO - Browser::Maximized
-2021-12-21 19:56:13,632 - CucumberTest -INFO - url entered
-2021-12-24 21:48:49,744 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-24 21:48:51,512 - CucumberTest -INFO - Browser::Maximized
-2021-12-24 21:48:57,330 - CucumberTest -INFO - url entered
-2021-12-24 22:08:49,479 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-24 22:08:50,863 - CucumberTest -INFO - Browser::Maximized
-2021-12-24 22:08:57,871 - CucumberTest -INFO - url entered
-2021-12-24 22:10:33,927 - CucumberTest -INFO - Chrome::Browser::Opened
-2021-12-24 22:10:35,189 - CucumberTest -INFO - Browser::Maximized
-2021-12-24 22:10:43,354 - CucumberTest -INFO - url entered
+2024-12-19 12:22:41,346 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:22:43,887 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:25:38,438 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:25:40,725 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:25:56,171 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 12:29:09,478 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:30:12,833 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:30:17,669 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:30:33,313 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 12:30:33,882 - stepDefinition.CricketInfo -INFO - Match starts in 30 mins
+2024-12-19 12:38:04,179 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:38:06,688 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:38:23,186 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 12:38:24,233 - stepDefinition.CricketInfo -INFO - java.util.ArrayList$ListItr@6972c30a
+2024-12-19 12:38:24,598 - stepDefinition.CricketInfo -INFO - Match starts in 22 mins
+2024-12-19 12:51:03,822 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:51:05,817 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:51:21,324 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 12:51:21,821 - stepDefinition.CricketInfo -INFO - TODAY, 1:00 PM
+2nd ODI, Harare, December 19, 2024, Afghanistan tour of Zimbabwe
+Zimbabwe
+Afghanistan
+Match starts in 9 mins
+2024-12-19 12:51:21,856 - stepDefinition.CricketInfo -INFO - TODAY, 1:45 PM
+5th Match (N), Geelong, December 19, 2024, Big Bash League
+Melbourne Renegades
+Hobart Hurricanes
+Match starts in 54 mins
+2024-12-19 12:51:21,890 - stepDefinition.CricketInfo -INFO - LIVE
+Qualifier 2, Kirtipur, December 19, 2024, Nepal Premier League
+Karnali Yaks (NPL)
+(7.3/20 ov) 54/3
+Janakpur Bolts (NPL)
+Janakpur chose to field.
+2024-12-19 12:51:21,974 - stepDefinition.CricketInfo -INFO - TODAY, 3:00 PM
+13th Match, ICCA Dubai, December 19, 2024, Gulf T20I Championship
+United Arab Emirates
+Saudi Arabia
+Match starts in 2 hrs 9 mins
+2024-12-19 12:51:22,005 - stepDefinition.CricketInfo -INFO - TODAY, 5:30 PM
+2nd ODI (D/N), Cape Town, December 19, 2024, Pakistan tour of South Africa
+South Africa
+Pakistan
+Match starts in 4 hrs 39 mins
+2024-12-19 12:51:22,038 - stepDefinition.CricketInfo -INFO - TODAY, 7:00 PM
+3rd T20I (N), DY Patil, December 19, 2024, West Indies Women tour of India
+India Women
+West Indies Women
+Match yet to begin
+2024-12-19 12:51:22,101 - stepDefinition.CricketInfo -INFO - TOMORROW, 5:30 AM
+3rd T20I (N), Kingstown, December 19, 2024, Bangladesh tour of West Indies
+West Indies
+Bangladesh
+Match yet to begin
+2024-12-19 12:51:22,178 - stepDefinition.CricketInfo -INFO - RESULT
+3rd Test, Brisbane, December 14 - 18, 2024, India tour of Australia
+Australia
+445 & 89/7d
+India
+(T:275) 260 & 8/0
+Match drawn
+2024-12-19 12:51:22,204 - stepDefinition.CricketInfo -INFO - ABANDONED
+1st ODI, Wellington, December 19, 2024, Australia Women tour of New Zealand
+New Zealand Women
+Australia Women
+Match abandoned without a ball bowled
+2024-12-19 12:51:22,266 - stepDefinition.CricketInfo -INFO - RESULT
+8th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Bangladesh Women Under-19s
+80/8
+India Women Under-19s
+(12.1/20 ov, T:81) 86/2
+IND-WMN U19 won by 8 wickets (with 47 balls remaining)
+2024-12-19 12:51:22,353 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+16th Match, Gqeberha, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Warriors
+Titans
+Match yet to begin
+2024-12-19 12:51:22,380 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+17th Match, Durban, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Dolphins
+Boland
+Match yet to begin
+2024-12-19 12:51:22,411 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+25th Match, Sylhet, December 19, 2024, National Cricket League T20
+Rajshahi Division
+Sylhet Division
+2024-12-19 12:51:22,444 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+26th Match, Sylhet, December 19, 2024, National Cricket League T20
+Chattogram Division
+Dhaka Metropolis
+2024-12-19 12:51:22,469 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+27th Match, Sylhet, December 19, 2024, National Cricket League T20
+Barisal Division
+Dhaka Division
+2024-12-19 12:51:22,964 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+28th Match, Sylhet, December 19, 2024, National Cricket League T20
+Khulna Division
+Rangpur Division
+2024-12-19 12:51:22,996 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+16th Match, Rawalpindi, December 19, 2024, Champions T20 Cup
+Lions (Pakistan)
+Panthers (Pakistan)
+2024-12-19 12:51:23,022 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+9th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Nepal Women Under-19s
+Sri Lanka Women Under-19s
+2024-12-19 12:54:38,246 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 12:54:40,611 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 12:54:56,104 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 12:54:56,806 - stepDefinition.CricketInfo -INFO - Match: 0
+2024-12-19 12:54:56,834 - stepDefinition.CricketInfo -INFO - TODAY, 1:00 PM
+2nd ODI, Harare, December 19, 2024, Afghanistan tour of Zimbabwe
+Afghanistan
+Zimbabwe
+Zimbabwe chose to field
+2024-12-19 12:54:56,834 - stepDefinition.CricketInfo -INFO - Match: 1
+2024-12-19 12:54:56,866 - stepDefinition.CricketInfo -INFO - TODAY, 1:45 PM
+5th Match (N), Geelong, December 19, 2024, Big Bash League
+Melbourne Renegades
+Hobart Hurricanes
+Match starts in 51 mins
+2024-12-19 12:54:56,866 - stepDefinition.CricketInfo -INFO - Match: 2
+2024-12-19 12:54:56,909 - stepDefinition.CricketInfo -INFO - LIVE
+Qualifier 2, Kirtipur, December 19, 2024, Nepal Premier League
+Karnali Yaks (NPL)
+(8.2/20 ov) 59/3
+Janakpur Bolts (NPL)
+Janakpur chose to field.
+2024-12-19 12:54:56,909 - stepDefinition.CricketInfo -INFO - Match: 3
+2024-12-19 12:54:56,939 - stepDefinition.CricketInfo -INFO - TODAY, 3:00 PM
+13th Match, ICCA Dubai, December 19, 2024, Gulf T20I Championship
+United Arab Emirates
+Saudi Arabia
+Match starts in 2 hrs 6 mins
+2024-12-19 12:54:56,939 - stepDefinition.CricketInfo -INFO - Match: 4
+2024-12-19 12:54:57,001 - stepDefinition.CricketInfo -INFO - TODAY, 5:30 PM
+2nd ODI (D/N), Cape Town, December 19, 2024, Pakistan tour of South Africa
+South Africa
+Pakistan
+Match starts in 4 hrs 36 mins
+2024-12-19 12:54:57,001 - stepDefinition.CricketInfo -INFO - Match: 5
+2024-12-19 12:54:57,075 - stepDefinition.CricketInfo -INFO - TODAY, 7:00 PM
+3rd T20I (N), DY Patil, December 19, 2024, West Indies Women tour of India
+India Women
+West Indies Women
+Match yet to begin
+2024-12-19 12:54:57,075 - stepDefinition.CricketInfo -INFO - Match: 6
+2024-12-19 12:54:57,122 - stepDefinition.CricketInfo -INFO - TOMORROW, 5:30 AM
+3rd T20I (N), Kingstown, December 19, 2024, Bangladesh tour of West Indies
+West Indies
+Bangladesh
+Match yet to begin
+2024-12-19 12:54:57,122 - stepDefinition.CricketInfo -INFO - Match: 7
+2024-12-19 12:54:57,157 - stepDefinition.CricketInfo -INFO - RESULT
+3rd Test, Brisbane, December 14 - 18, 2024, India tour of Australia
+Australia
+445 & 89/7d
+India
+(T:275) 260 & 8/0
+Match drawn
+2024-12-19 12:54:57,158 - stepDefinition.CricketInfo -INFO - Match: 8
+2024-12-19 12:54:57,185 - stepDefinition.CricketInfo -INFO - ABANDONED
+1st ODI, Wellington, December 19, 2024, Australia Women tour of New Zealand
+New Zealand Women
+Australia Women
+Match abandoned without a ball bowled
+2024-12-19 12:54:57,185 - stepDefinition.CricketInfo -INFO - Match: 9
+2024-12-19 12:54:57,218 - stepDefinition.CricketInfo -INFO - RESULT
+8th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Bangladesh Women Under-19s
+80/8
+India Women Under-19s
+(12.1/20 ov, T:81) 86/2
+IND-WMN U19 won by 8 wickets (with 47 balls remaining)
+2024-12-19 12:54:57,218 - stepDefinition.CricketInfo -INFO - Match: 10
+2024-12-19 12:54:57,276 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+16th Match, Gqeberha, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Warriors
+Titans
+Match yet to begin
+2024-12-19 12:54:57,276 - stepDefinition.CricketInfo -INFO - Match: 11
+2024-12-19 12:54:57,301 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+17th Match, Durban, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Dolphins
+Boland
+Match yet to begin
+2024-12-19 12:54:57,301 - stepDefinition.CricketInfo -INFO - Match: 12
+2024-12-19 12:54:57,325 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+25th Match, Sylhet, December 19, 2024, National Cricket League T20
+Rajshahi Division
+Sylhet Division
+2024-12-19 12:54:57,325 - stepDefinition.CricketInfo -INFO - Match: 13
+2024-12-19 12:54:57,351 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+26th Match, Sylhet, December 19, 2024, National Cricket League T20
+Chattogram Division
+Dhaka Metropolis
+2024-12-19 12:54:57,351 - stepDefinition.CricketInfo -INFO - Match: 14
+2024-12-19 12:54:57,397 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+27th Match, Sylhet, December 19, 2024, National Cricket League T20
+Barisal Division
+Dhaka Division
+2024-12-19 12:54:57,397 - stepDefinition.CricketInfo -INFO - Match: 15
+2024-12-19 12:54:57,428 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+28th Match, Sylhet, December 19, 2024, National Cricket League T20
+Khulna Division
+Rangpur Division
+2024-12-19 12:54:57,428 - stepDefinition.CricketInfo -INFO - Match: 16
+2024-12-19 12:54:57,451 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+16th Match, Rawalpindi, December 19, 2024, Champions T20 Cup
+Lions (Pakistan)
+Panthers (Pakistan)
+2024-12-19 12:54:57,451 - stepDefinition.CricketInfo -INFO - Match: 17
+2024-12-19 12:54:57,482 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+9th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Nepal Women Under-19s
+Sri Lanka Women Under-19s
+2024-12-19 13:04:07,246 - stepDefinition.CricketInfo -INFO - ###Browser Launched###
+2024-12-19 13:04:09,176 - stepDefinition.CricketInfo -INFO - ###Url Entered###
+2024-12-19 13:04:24,773 - stepDefinition.CricketInfo -INFO - ###Clicked on Live score link###
+2024-12-19 13:04:25,277 - stepDefinition.CricketInfo -INFO - Match: 1
+2024-12-19 13:04:25,324 - stepDefinition.CricketInfo -INFO - TODAY, 1:45 PM
+5th Match (N), Geelong, December 19, 2024, Big Bash League
+Melbourne Renegades
+Hobart Hurricanes
+Match starts in 41 mins
+2024-12-19 13:04:25,338 - stepDefinition.CricketInfo -INFO - Match: 2
+2024-12-19 13:04:25,396 - stepDefinition.CricketInfo -INFO - LIVE
+Qualifier 2, Kirtipur, December 19, 2024, Nepal Premier League
+Karnali Yaks (NPL)
+(9.4/20 ov) 66/4
+Janakpur Bolts (NPL)
+Janakpur chose to field.
+2024-12-19 13:04:25,396 - stepDefinition.CricketInfo -INFO - Match: 3
+2024-12-19 13:04:25,461 - stepDefinition.CricketInfo -INFO - TODAY, 3:00 PM
+13th Match, ICCA Dubai, December 19, 2024, Gulf T20I Championship
+United Arab Emirates
+Saudi Arabia
+Match starts in 1 hr 56 mins
+2024-12-19 13:04:25,466 - stepDefinition.CricketInfo -INFO - Match: 4
+2024-12-19 13:04:25,523 - stepDefinition.CricketInfo -INFO - TODAY, 5:30 PM
+2nd ODI (D/N), Cape Town, December 19, 2024, Pakistan tour of South Africa
+South Africa
+Pakistan
+Match starts in 4 hrs 26 mins
+2024-12-19 13:04:25,523 - stepDefinition.CricketInfo -INFO - Match: 5
+2024-12-19 13:04:25,569 - stepDefinition.CricketInfo -INFO - TODAY, 7:00 PM
+3rd T20I (N), DY Patil, December 19, 2024, West Indies Women tour of India
+India Women
+West Indies Women
+Match starts in 5 hrs 56 mins
+2024-12-19 13:04:25,569 - stepDefinition.CricketInfo -INFO - Match: 6
+2024-12-19 13:04:25,751 - stepDefinition.CricketInfo -INFO - TOMORROW, 5:30 AM
+3rd T20I (N), Kingstown, December 19, 2024, Bangladesh tour of West Indies
+West Indies
+Bangladesh
+Match yet to begin
+2024-12-19 13:04:25,751 - stepDefinition.CricketInfo -INFO - Match: 7
+2024-12-19 13:04:25,830 - stepDefinition.CricketInfo -INFO - RESULT
+3rd Test, Brisbane, December 14 - 18, 2024, India tour of Australia
+Australia
+445 & 89/7d
+India
+(T:275) 260 & 8/0
+Match drawn
+2024-12-19 13:04:25,830 - stepDefinition.CricketInfo -INFO - Match: 8
+2024-12-19 13:04:25,862 - stepDefinition.CricketInfo -INFO - ABANDONED
+1st ODI, Wellington, December 19, 2024, Australia Women tour of New Zealand
+New Zealand Women
+Australia Women
+Match abandoned without a ball bowled
+2024-12-19 13:04:25,862 - stepDefinition.CricketInfo -INFO - Match: 9
+2024-12-19 13:04:25,901 - stepDefinition.CricketInfo -INFO - RESULT
+8th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Bangladesh Women Under-19s
+80/8
+India Women Under-19s
+(12.1/20 ov, T:81) 86/2
+IND-WMN U19 won by 8 wickets (with 47 balls remaining)
+2024-12-19 13:04:25,901 - stepDefinition.CricketInfo -INFO - Match: 10
+2024-12-19 13:04:25,932 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+16th Match, Gqeberha, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Warriors
+Titans
+Match yet to begin
+2024-12-19 13:04:25,932 - stepDefinition.CricketInfo -INFO - Match: 11
+2024-12-19 13:04:25,967 - stepDefinition.CricketInfo -INFO - TODAY, 1:30 PM
+17th Match, Durban, December 19 - 22, 2024, CSA 4-Day Series Division 1
+Dolphins
+Boland
+Match yet to begin
+2024-12-19 13:04:25,967 - stepDefinition.CricketInfo -INFO - Match: 12
+2024-12-19 13:04:26,016 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+25th Match, Sylhet, December 19, 2024, National Cricket League T20
+Rajshahi Division
+Sylhet Division
+2024-12-19 13:04:26,016 - stepDefinition.CricketInfo -INFO - Match: 13
+2024-12-19 13:04:26,097 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+26th Match, Sylhet, December 19, 2024, National Cricket League T20
+Chattogram Division
+Dhaka Metropolis
+2024-12-19 13:04:26,097 - stepDefinition.CricketInfo -INFO - Match: 14
+2024-12-19 13:04:26,133 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+27th Match, Sylhet, December 19, 2024, National Cricket League T20
+Barisal Division
+Dhaka Division
+2024-12-19 13:04:26,133 - stepDefinition.CricketInfo -INFO - Match: 15
+2024-12-19 13:04:26,169 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+28th Match, Sylhet, December 19, 2024, National Cricket League T20
+Khulna Division
+Rangpur Division
+2024-12-19 13:04:26,169 - stepDefinition.CricketInfo -INFO - Match: 16
+2024-12-19 13:04:26,854 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+16th Match, Rawalpindi, December 19, 2024, Champions T20 Cup
+Lions (Pakistan)
+Panthers (Pakistan)
+2024-12-19 13:04:26,854 - stepDefinition.CricketInfo -INFO - Match: 17
+2024-12-19 13:04:26,878 - stepDefinition.CricketInfo -INFO - NOT COVERED LIVE
+9th Match, Super Four, Kuala Lumpur, December 19, 2024, Under-19 Women's T20 Asia Cup
+Nepal Women Under-19s
+Sri Lanka Women Under-19s

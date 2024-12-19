@@ -12,7 +12,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.io.FileHandler;
 
-import base.TestBase;
+
 
 public class TestUtil {
 public TestUtil() throws FileNotFoundException, IOException {
@@ -24,15 +24,7 @@ public static WebDriver driver;
 public static long PAGE_LOAD_TIMEOUT = 30;
 public static long IMPLICIT_WAIT = 30;
 
-//Screen shot utility
-/*	public  static void takeScreenshot(WebDriver driver) throws IOException { 
-		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-	   
-	    System.out.println("Screenshot Taken Successfully");
-    FileUtils.copyFile(f, new File("..\\CucumberTest\\Screenshots\\" + System.currentTimeMillis() + ".png"));
-	}*/
-	
-	//Element Highlighter
+
 	 public static void highLightElement(WebDriver driver, WebElement element)
 	    {
 	        JavascriptExecutor js=(JavascriptExecutor)driver;

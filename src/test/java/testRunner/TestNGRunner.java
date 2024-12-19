@@ -10,7 +10,7 @@ import cucumber.api.testng.CucumberFeatureWrapper;
 import cucumber.api.testng.TestNGCucumberRunner;
 
 @CucumberOptions(
-		features= "Features/TestNgLogin.feature",glue="stepDefinition",
+		features= "Features/ESPN.feature",glue="stepDefinition",
 				plugin={"html:target/cucumber-html-report",
 						"json:target/cucumber.json",
 						"pretty:target/cucumber-pretty.txt",
